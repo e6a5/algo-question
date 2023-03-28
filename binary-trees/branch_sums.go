@@ -1,10 +1,4 @@
-package main
-
-type BinaryTree struct {
-	Value int
-	Left  *BinaryTree
-	Right *BinaryTree
-}
+package binarytrees
 
 func BranchSums(root *BinaryTree) []int {
 	// Write your code here.

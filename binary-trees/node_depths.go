@@ -1,4 +1,4 @@
-package main
+package binarytrees
 
 func NodeDepths(root *BinaryTree) int {
 	return SumNodeDepths(root, 0)
