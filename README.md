@@ -49,3 +49,6 @@ This repository is a collection of my solutions for the AlgoExpert questions
 - [non-repeating-character](./strings/non_repeating_character.go)
 - [semordnilap](./strings/semordnilap.go)
 
+## Recursion
+
+- [product-sum](./recursion/product_sum.go)
