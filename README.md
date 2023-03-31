@@ -26,6 +26,7 @@ This repository is a collection of my solutions for the AlgoExpert questions
 ## Greedy Algorithms
 
 - [minimum-waiting-time](./greedy-algorithms/minimum_waiting_time.go)
+- [class-photos](./greedy-algorithms/class_photos.go)
 
 ## Searching 
 
