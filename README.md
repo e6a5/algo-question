@@ -19,6 +19,10 @@ This repository is a collection of my solutions for the AlgoExpert questions
 - [invert-binary-trees](./binary-trees/invert_binary_trees.go)
 - [node-depths](./binary-trees/node_depths.go)
 
+## Dynamic Programming
+
+- [min-number-of-coins-for-change](./dynamic-programming/min_number_of_coins_for_change.go)
+
 ## Graphs
 
 - [dfs](./graphs/dfs.go)
