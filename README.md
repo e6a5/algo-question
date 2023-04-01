@@ -9,6 +9,7 @@ This repository is a collection of my solutions for the AlgoExpert questions
 - [two-number-sum](./arrays/two_number_sum.go)
 - [validate-subsequence](./arrays/validate_subsequence.go)
 - [smallest-difference](./arrays/smallest_difference.go)
+- [first-duplicate-value](./arrays/first_duplicate_value.go)
 
 ## Binary Search Trees 
 
