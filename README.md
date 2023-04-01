@@ -8,6 +8,7 @@ This repository is a collection of my solutions for the AlgoExpert questions
 - [tournament-winner](./arrays/tournament_winner.go)
 - [two-number-sum](./arrays/two_number_sum.go)
 - [validate-subsequence](./arrays/validate_subsequence.go)
+- [smallest-difference](./arrays/smallest_difference.go)
 
 ## Binary Search Trees 
 
