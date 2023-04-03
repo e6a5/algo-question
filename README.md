@@ -14,6 +14,7 @@ This repository is a collection of my solutions for the AlgoExpert questions
 ## Binary Search Trees 
 
 - [bst-construction](./binary-search-trees/bst_construction.go)
+- [bst-traversal](./binary-search-trees/bst_traversal.go)
 
 ## Binary Trees 
 
