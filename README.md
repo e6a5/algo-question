@@ -59,3 +59,7 @@ This repository is a collection of my solutions for the AlgoExpert questions
 ## Recursion
 
 - [product-sum](./recursion/product_sum.go)
+
+# Linked List 
+
+- [remove-duplicates](./linked-list/remove-duplicates.go)
