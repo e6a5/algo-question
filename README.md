@@ -29,6 +29,8 @@ This repository is a collection of my solutions for the AlgoExpert questions
 ## Graphs
 
 - [dfs](./graphs/dfs.go)
+- [bfs](./graphs/bfs.go)
+- [single-cycle-check](./graphs/single_cycle_check.go)
 
 ## Greedy Algorithms
 
